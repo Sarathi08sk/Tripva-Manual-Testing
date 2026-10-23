@@ -1,7 +1,0 @@
-
-Test Case ID,Module,Test Scenario,Expected Result,Actual Result,Status
-TC001,Login,Verify login with valid credentials,User should log in successfully,Not recorded,Not recorded
-TC002,Bus Search,Search buses using source and destination,Matching buses should be displayed,Not recorded,Not recorded
-TC003,Bus Details,Verify bus details in search results,Correct bus details should be displayed,Not recorded,Not recorded
-TC004,Seat Selection,Verify seat selection,Selected seat should be highlighted,Not recorded,Not recorded
-TC005,Booking,Verify booking flow,Booking should proceed with valid details,Not recorded,Not recorded
